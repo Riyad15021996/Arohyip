@@ -293,13 +293,13 @@
     .transaction-clicked ul li {
         margin: 0 5px;
     }
-    .transaction-wrapper tr th {
+    /* .transaction-wrapper tr th {
         padding: 14px;
     }
     .transaction-wrapper tr td {
         padding: 12px;
         font-size: 17px;
-    }
+    } */
     .happy-shapes {
         display: none;
     }
@@ -386,14 +386,14 @@
     .company-faq-content .accordion-thumb {
         padding: 15px 30px;
     }
-    .transaction-wrapper tr th {
+    /* .transaction-wrapper tr th {
         padding: 15px 5px;
         font-size: 14px;
     }
     .transaction-wrapper tr td {
         padding: 12px;
         font-size: 13px;
-    }
+    } */
     .single-happy li:nth-child(1) img {
         width: 240px;
     }
@@ -459,9 +459,9 @@
     .company-right-img {
         display: none;
     }
-    .transaction-wrapper tr td img {
+    /* .transaction-wrapper tr td img {
         display: none;
-    }
+    } */
     .single-happy li:nth-child(1) img {
         left: 47%;
     }
@@ -534,13 +534,13 @@
     .get-profit-center img {
         width: 300px;
     }
-    .transaction-wrapper tr th {
+    /* .transaction-wrapper tr th {
         padding: 14px 7px;
     }
     .transaction-wrapper tr td {
         padding: 12px 5px;
         font-size: 12px;
-    }
+    } */
     .single-slider p {
         font-size: 13px;
         line-height: 28px;
